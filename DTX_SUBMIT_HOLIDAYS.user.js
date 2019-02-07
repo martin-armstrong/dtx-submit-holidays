@@ -2,6 +2,8 @@
 // @name         DTX_SUBMIT_HOLIDAYS
 // @namespace    capgemini.com
 // @version      1.0
+// @updateURL    https://github.com/martin-armstrong/dtx-submit-holidays/raw/master/DTX_SUBMIT_HOLIDAYS.user.js
+// @downloadURL  https://github.com/martin-armstrong/dtx-submit-holidays/raw/master/DTX_SUBMIT_HOLIDAYS.user.js
 // @description  Fixes for DTX Submit Holidays page
 // @author       martin.armstrong@capgemini.com
 // @match        https://*/*/DTX.NET/*
