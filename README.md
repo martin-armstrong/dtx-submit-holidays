@@ -1,2 +1,2 @@
-# dtc-submit-holidays
+# dtx-submit-holidays
 fixes for dtx submit holiday request page
