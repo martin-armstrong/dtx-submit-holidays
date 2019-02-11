@@ -7,6 +7,8 @@
 // @description  Fixes for DTX Submit Holidays page
 // @author       martin.armstrong@capgemini.com
 // @match        https://*/*/DTX.NET/*
+// @match        https://*/DTX.NET/*
+// @match        http://*/*/DTX.NET/*
 // @match        http://*/DTX.NET/*
 // @grant        none
 // ==/UserScript==
